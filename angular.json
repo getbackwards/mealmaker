@@ -29,7 +29,9 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "src/scripts/meal-maker.js"
+            ]
           },
           "configurations": {
             "production": {
